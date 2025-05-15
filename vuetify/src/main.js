@@ -30,7 +30,7 @@ const vuetify = createVuetify({
     variant:"solo",
   },
 },
-    theme:{
+    Theme:{
       defaultTheme:"dark",
     }
   
